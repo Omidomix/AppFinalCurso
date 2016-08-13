@@ -1,0 +1,8 @@
+"/home/anonymous/Escritorio/Appcelerator_Work/cursoMoviles/build/android/gen/android/support/v7/appcompat/R.java"
+"/home/anonymous/Escritorio/Appcelerator_Work/cursoMoviles/build/android/gen/android/support/v7/cardview/R.java"
+"/home/anonymous/Escritorio/Appcelerator_Work/cursoMoviles/build/android/gen/com/cursoMoviles/AssetCryptImpl.java"
+"/home/anonymous/Escritorio/Appcelerator_Work/cursoMoviles/build/android/gen/com/cursoMoviles/CursomovilesActivity.java"
+"/home/anonymous/Escritorio/Appcelerator_Work/cursoMoviles/build/android/gen/com/cursoMoviles/CursomovilesAppInfo.java"
+"/home/anonymous/Escritorio/Appcelerator_Work/cursoMoviles/build/android/gen/com/cursoMoviles/CursomovilesApplication.java"
+"/home/anonymous/Escritorio/Appcelerator_Work/cursoMoviles/build/android/gen/com/cursoMoviles/R.java"
+"/home/anonymous/Escritorio/Appcelerator_Work/cursoMoviles/build/android/gen/ti/modules/titanium/ui/R.java"

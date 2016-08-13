@@ -1,0 +1,1 @@
+/home/anonymous/Escritorio/Appcelerator_Work/cursoMoviles/Resources/ventana.js
